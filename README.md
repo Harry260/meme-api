@@ -2,15 +2,13 @@
 
 <h1 align="center">
    <br>
-   <a href="https://bobthebot.netlify.app/">
     <img src="./public/images/icon.png" alt="Bob The Bot" width="200">
-   </a>
    <br>
-   <a href="https://instagram.com/dragshorts/">Memable API</a><br>
+   Memable API<br>
 </h1>
 
 <h4 align="center">
-    Memable is a Meme Explorer website (im working on) and this is a prototype of the API i created for it. It is powered by Rddit!<a href="https://instagram.com/dragshorts/">here</a> 
+    Memable is a Meme Explorer website (im working on) and this is a prototype of the API i created for it. It is powered by Rddit!
 </h4>
 
 <h4 align="center">
